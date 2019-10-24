@@ -9,10 +9,10 @@ Note: use `tensorflow` if not training with a GPU.
 `pip install textgenrnn`
 
 #### Versions
-*Python 3.7
-*Tensorflow 1.14
-*cudatoolkit 10.0
-*cudnn 7.6
+* Python 3.7
+* Tensorflow 1.14
+* cudatoolkit 10.0
+* cudnn 7.6
 
 ## Trump Tweets
 1. Downloaded all Trump tweets from January 1st 2016 to October 24th 2019 from the [Trump Twitter Archive](http://www.trumptwitterarchive.com/)
