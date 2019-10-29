@@ -1,0 +1,292 @@
+20,217 texts collected.
+Training new model w/ 2-layer, 128-cell LSTMs
+Training on 1,580,719 character sequences.
+Epoch 1/10
+12349/12349 [==============================] - 101s 8ms/step - loss: 1.6525
+####################
+Temperature: 0.2
+####################
+“The king was no one stars of the could seem to seem the steward to seem to starte and the steward was a man who stared the steward whispered the steward and stars and standing and stared the steward to the steward to see the steward hand to stare and lances and the steward when the steward was no 
+
+“The steward was no then the stanger what it was a standion of a black been between the steward to see the steward was a black before the steward to see the steward and stared and the step and stared the steward to her behind the steward who seemed to her father, and the steward was no trushing the
+
+“You will not to the steward to the sear of the steward of the son of the door to seem the sears and stars and stars and stared behind the stone was a standing bell and the stang of the steward who had seemed to seem the sears and stared her steps and stars of the steward to seem the steward and st
+
+####################
+Temperature: 0.5
+####################
+the steward to scare and a second fleck who how he could be a scarce.
+
+the consted whispered and basters of between the septive back and son
+
+the wine was no more and someone what what was not was not men to see the stanged for the ellman and seemed and the door, but there were the long to stable and back to the copper of the could be animal in the arms and the least, but the sicked speak with the sears of the door. “The stayes what I ha
+
+####################
+Temperature: 1.0
+####################
+quire.”
+
+the Voares Winterfell had been frownly, and old man known a speessing ten
+
+dashed towhing north walls and words in the comes beside the could his his so man. She realized gally Catelyn that shreep alone tying scenblight in, well he mounted from the road was
+
+Epoch 2/10
+12349/12349 [==============================] - 104s 8ms/step - loss: 1.3701
+####################
+Temperature: 0.2
+####################
+“I won’t be a strong man to be a man to the moment he was strong and and strong and strong and strong and believed the strong and strong and strong and strong and strong and was a man when he saw the strong of the dark of the stretch of the strong walls and strong and strong and strong and was a st
+
+“Beside her when the strong back of the strong walls and beard and strong and strong and strong and strong and strong and strong and warrions and strong and strong and strong and filled at her sister and strong and strong and strong and strong and strong and strong at her so stream, and the sharp s
+
+the strong back of the way and strong and strong and strong and strong and said the strength and strong and strong and made her face and strong and strong and strong and strong and strong and strong and the strong of the strong back of the raven of the strong armor and the strong back to the streng
+
+####################
+Temperature: 0.5
+####################
+“We look at realize, what the blood,” he said up her and said, “They did not woman to look with her back, step, and and where the sun was not a man to leave the great in a moment, and he will take her and stepped in when the second past and strobbing in the shoulders and where the bild boy damn fro
+
+“I shall make the realm.”
+
+The small parted through the dragon’s black when his son to the strong armoring and smile when they were strong and the small of the walls the strength that he seemed to the crown of the parned way and the wild fingers of a door thing when he
+
+####################
+Temperature: 1.0
+####################
+stroking, Drogo came his heart in her feet on his bandery too death. Over on Dragons?”
+
+The wolf surrounded here with politely beard of whit Marill is a in the
+
+“Lord Bran tertenced, clame to run away in Bran. I ask at
+
+Epoch 3/10
+12349/12349 [==============================] - 107s 9ms/step - loss: 1.3220
+####################
+Temperature: 0.2
+####################
+the sound of the stone was so much as a small water as the mark was something to see them to see a strange of the stone silence to see the shoulder of the second white saddle steel before her for the steps of the dark and stars of the sight of the sight of the second who had seen the stone of the s
+
+the stone was stone with the stone with the stoneabs of the sound of the steps of the same to see the steel in the stone of the sword of the sound of the sound of the sound of the steps of the sept of the sound of the white swords of the steps of the sound of the walls, and the stone was so much of
+
+the steps of the walls of the steps of the stone of the stallion with the sound of the stone of the shield of the stone of the sight of the stone of the stone. The second smile was so stood himself to her belly, and the pows were said to see the stone of the walls, and the silver was so stone as sh
+
+####################
+Temperature: 0.5
+####################
+the rest of the sister and Lord Tywin thought, she saw the men as she might realize himself to stood as he saw the tongue to her bed of the silver loves, and she could see the lords of the tent, but the king shadow as a strong for him call the boy and he was stone to walk to the gods past in his si
+
+Lord and she did not start at the council come. They said the boy had been solemn on the moments, the small man who must have they said. He was a guard
+
+“Then, my lord,” she said. “Why is for the Free Cities, I was on my son, my lord. I should go at him to fought her son as the proce of the dark in the one who was so the windows and still said at her with a shiver. “I was a stone way. I should go to the walls of his mouth to great the stone shoulde
+
+####################
+Temperature: 1.0
+####################
+my speasily, my lord. He never been do, Drogo had donned her
+
+guested as the truths withed the come namesquire. The behood had been Wind, stallion to much himself the mud on the Robert Rayd, everily and saw them porting, filled since with an through a soft alone. It had laughing across
+
+sape. You
+
+Epoch 4/10
+12349/12349 [==============================] - 107s 9ms/step - loss: 1.9849
+####################
+Temperature: 0.2
+####################
+“I will be a man of the castle warm,” she said. “I don’t want to see the door, I was a morrore of the streat of the words and the steps of the stars of the door and the stars of the words and beard and the stream and she was his father and the word of the windows and streames and stared and stared 
+
+“I will be a stream.”
+
+“I saw the truth of the Kingslayer and the courtes of the words and she was a stream of the windows and shattered and the words and the walls of the world and the words were the stars were stars and the stream and the way to the stars and the stars with the first to be a stream of the stream of the
+
+####################
+Temperature: 0.5
+####################
+“I don’t be a boy,” Ser Jorah said.
+
+The coun was a fat stares with her hand and a pirce of his fears and seets of some starrions at the butter of the wolf, and deep and hard waited her steel from the send of the words of the Barristan the bascers of some striders and seems to have learned to the look and the only spears and Grey Will
+
+“I shall tell of my faces, be for a brother under seen three your sister and some silent, and some wirejorn man was not here, where the crowdless were troubled it of his father’s blood and shivering. “Why is a silence in the stars,” the man said. “If Bran seemed to have the one and some while a sor
+
+####################
+Temperature: 1.0
+####################
+manst gareon, sclendled down, and a big teep
+
+had slides of it.”
+
+Catelyn started, and ever gone hungry, Jon’s wrose of
+
+Epoch 5/10
+12349/12349 [==============================] - 109s 9ms/step - loss: 1.3251
+####################
+Temperature: 0.2
+####################
+“The gods were the boy of the Wall, and the bastard of the Wall and the stars of the words and the septa behind him as a shadow of the day of the septa stared and said as the stallion was said and looking at him. “We are the fire, my lord. I was not as if you can see the stagon of the stallion of t
+
+“The boy will not see you and day of the stallion of the Wall, and the septa took the septa and the stallion of the stones of the light of the Wall. The bastard was a fire of the septa to a shadow of the shadow of the stable of the shadow of the door of the Wall. The first was the door of the Wall 
+
+“The men were all the sound of the Wall. The septa was a stars of the stallion of the Wall. The bastard was a few septa to the steps of the sword of the Wall. The man was a stallion of the stones of the bear and the common said the stallion of the stallion of the Wall. The septa was a small to the 
+
+####################
+Temperature: 0.5
+####################
+Lord Stannis the old man stood out of the words. “As you will be as the men are coming the sound and hands and a white horse and wearing the poor of the septa side and staring after the sword of his brother to last. Perhaps he had told herself to her bed and a battle smile. “I was all the mountain 
+
+“The gods are your torch of your sword I could not see it. I won’t see the south. I was so much a dishonies of the Watch of the Wall. “I want to be as the firet of care nothing to the Snow towers, something her eyes had been coming to got in a force of the long shoulder and the battle of the archer
+
+He found for him and the boy was done all in the supper. “I’m done to be a dozen boys of serving horse and saddled and his children by the
+
+####################
+Temperature: 1.0
+####################
+“On a morning man’s hope to kill me. I am your eyes. Wy you
+
+and the girl, and for any speak to mount, who wantswere with a specianning
+
+white-down and fall stalking with a crowd bear or cooling.
+
+Epoch 6/10
+12349/12349 [==============================] - 107s 9ms/step - loss: 1.2556
+####################
+Temperature: 0.2
+####################
+“I will not ask you to the other of the brother of the south, and the strength was a place of the strength of the singer of the strength of the strength of the strength of the second strange as a bare of the strength of the south, and the septa the strength was strong at the silver of the common th
+
+“I will be a strong man and the strength of the sigil of the sound of the ship of the shadows and strode to see the singers and stood and strode on the boy, and the strength shoulder and drink and strode and done the septa and dead and strode and stone and strode and strode and stranger at the stre
+
+“I’m to be a strange of the septa that you will be a bare of the steel of the stream. The stallion was a strange of the silver bench and brother and a strange of the strength of the strength of the strength of the south of the south of the strength of the common was a strange of the strong way to t
+
+####################
+Temperature: 0.5
+####################
+“The Night’s Watch is a blood of the septa as the king could see a low string and side to the look of
+
+“I shall be a strong to strode his son to the other man who was a thousand shiver straddles of them. I does that the old man can seem to see a sister of the boy and a tone of the back and strode to see the command to keep our own man and see the words and the door of sick, and the words shrill and 
+
+“I’m be a good.” He gave a time he had sent her as a child. “Not to such all there are no one than any of the words and horse as she would be burned. What is said the swords are some will see him. One of me to be so bird in me, the others saw it in the yard.” He stood by the rest of his horse and r
+
+####################
+Temperature: 1.0
+####################
+“Yes.” The cife flung as he watched her door. “That words to look perfectory, but.”
+
+quarter’s dawn but the anter sigillat dwmained to different from times. And grabbed with Joffrey dressed, “I know have your eyes taken King Robert?”
+
+“Herethurie… you,” Her lord trahed and as he all the time he had come to serve
+
+Epoch 7/10
+12349/12349 [==============================] - 106s 9ms/step - loss: 1.4602
+####################
+Temperature: 0.2
+####################
+“I will not have the command with the stallion with a strength of the banners and the words with his hands and stone and stared at the complember of the companion of the stables of the mountains of the sept of the strength of the moon of the common and her brother was the strength of the commands a
+
+“I won’t be a boy,” he said. “The world was a man to the fat boy with the commander of his hands and stone and stone the stream of the commands of the Starks of the Night’s Watch and the stables of the back of the command of the Night’s Watch, and the boy was the stone of the strength of the king’s
+
+the bastard of the Kingsguard of the Kingsguard. The fire was a few strangers of the complete of the stream. “I will not be a fire,” he said. “The commands were the command with the king’s place, and the man was the truth of the commander of the Kingsguard to the back of the world when he was a chi
+
+####################
+Temperature: 0.5
+####################
+The fingers were stood streaming at him. “The man would make a fine step of the Lord of the Kingsguard to complain the stables, but it was a fire, then he was coming the tourney and speak. “And the little woman and I make him no man’s brow.”
+
+the long one of the king’s face, and the man had dencued to the pages who held her hand at
+
+“The commander man had been to all think when he went to him over to her face. “The Greatjon like the same the signess of the King’s Hand, and the boy was the one, and when they could not do to be suck of the dark half a warn of the man went in the living leaves and started around the shoulder when
+
+####################
+Temperature: 1.0
+####################
+“Nod we give you you put young thick,” Jon said. “Ser Jorah was my smile, promisen as your
+
+“We different it yet,” Sansa said, fiercely confaered their chest, greening. “We will fly what she had never known?
+
+hair from the mags rankmain at the compesions
+
+Epoch 8/10
+12349/12349 [==============================] - 100s 8ms/step - loss: 1.2211
+####################
+Temperature: 0.2
+####################
+“I said the sound of the south of the words of the Starks and still steel and stone and stone and steel and steel of the steps to the steps of the steps and stone and strong between the steel of the steps and the steel and the great steel of the stone steel and the stables of the steps of the steps
+
+“The steward of the Night’s Watch, I would not be so much as the steward of the great steel and the steel of the steps and the steward of the Trident, and the steward was a story of the steep of the septa the steel of the stream. “I would have the stories of the stables, and the steel was stone tha
+
+“I will not remember the steward to the steward of the steps and the steward of the steps of the Night’s Watch with the boy of the court. It was the morning stone steel and the steward of the steps of the words and steel and stone that the steward stood at the steep with his face. “The sept was a s
+
+####################
+Temperature: 0.5
+####################
+“The king will make them in the steps to the fire in the sellsword who had never seen the words on the seven of the stone of the floor of the blood of the grass as he reached and feeling her feet.
+
+wearing before the sound of the soft stone castle of the courage could seem to teach the steward of the septon to him, she said. “The words,” he said in the stallion. “I don’t want to real the steep of your own son, my lady, it was so thing met to see the steps in the snow, the blood of the Trident
+
+and come to come to the ground, but they are so long strong meat now, and the woman start on the short of the stone and padding through the shadowskin of the back of the close to him, and the rest of the stone horse was the world who moved of the dragons, and the last man was still the dragon, she 
+
+####################
+Temperature: 1.0
+####################
+him.
+
+She should be that her who wanted to rang but as old,
+
+lion, a dozen up everyone him. “Here,” Ned muttered.
+
+Epoch 9/10
+12349/12349 [==============================] - 98s 8ms/step - loss: 1.1916
+####################
+Temperature: 0.2
+####################
+“The man will have to see you to see you and the stallion of the council to the septon to the steel of the steps and the common was a started beard and the steps were as she saw the steward of the room. “I was not the stallion with a strange of the stallion when they were below to see him, and the 
+
+“The king is a man with me a strong man with a stallion with a blood of the castle of the steward of the steps, and the second was a strong hand of the steps and the sept of the Hand of the Kingsguard, and the steel of the street of the steps and started and the steps and with the boy when he saw t
+
+“The king will be a day of the common with the steps and started and stronger and her sister as the man was a strong and strong in the sept of the council and the bastard was a chair of the steps and stood and strangely as the secret of his sister was a little of the stone walls and started and str
+
+####################
+Temperature: 0.5
+####################
+“What do you see? Poison, and I have to be so in the same to see it out of them. If he had seen the steps on the window and looked at his sword. “The Imp was not to take him,” she said. “That is not the last of my brother is surely to reach you, and here,” he said, “and it is a strong, whatever he 
+
+“The king’s pony words are songs of your
+
+the king’s mouth to death to have so truth and sons. The girl was a sharp look at the darkness of the walls. “The sellsword send me up to go.”
+
+####################
+Temperature: 1.0
+####################
+grass. Their axe to post over  to terron whispered together. He was the courtesies up from the granish.
+
+Althard moment Ned at the wolved Rickon and Varys of the Kingsguard are when he placed be urgents weeks to
+
+with a fire without grim of some dying, and a shoulder before he
+
+Epoch 10/10
+12349/12349 [==============================] - 101s 8ms/step - loss: 1.1694
+####################
+Temperature: 0.2
+####################
+“No one was a boy,” she said in the steps of the steps. “I will not be a start of the room, and the sound of the steps of the dark steel of the courtesy. The steel was the stallion of the stallion was a strong black boy. “I want to have the boy with the sept of the steps and the long stream of the 
+
+the great stallion was a step of the steps of the steps of the black boy of the boy. The stallion was a man when he was the stream of the steps of the beard seated to his feet. She had been strangely to see the sept of the steps, and the steward of the steps were all and strange that he was a stron
+
+“I want to see the steel of the steel of the common was a long step with a small steel of the stallion with a stair and started and stronger and the dark window and the stallion was the steward of the common startled and steel and startled and stronger and straight and the steps of the river to the
+
+####################
+Temperature: 0.5
+####################
+“What did you think?” he asked.
+
+“It was good begged alone to the silence of the direwolf to see the stallion, and the king had seen the stone in his supper had been a boy and the guard that he had been the gods complained to the words and the word of the Tullys of the dark. He was the past stallion was beyond the first things of 
+
+with an enemy.
+
+####################
+Temperature: 1.0
+####################
+smashing thrust there of the first.
+
+stink-and-deer with the distance.”
+
+The word find his place and stood the other place of their throat of us sevenfeed with the poppished behind even his high hand, and she is more
